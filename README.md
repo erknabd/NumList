@@ -8,4 +8,4 @@ It doesn't need any Library or Module, You can run it directly like this;
 ```
 python3 numlist.py
 ```
-[Useage](https://github.com/shexer/NumList/blob/main/numlist.py)
+[Useage](https://raw.githubusercontent.com/shexer/NumList/main/NumList.PNG)
